@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+chroma_pdf/
+resultats_pdf/
+.ipynb_checkpoints/
