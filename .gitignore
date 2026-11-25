@@ -1,10 +1,16 @@
 ﻿.venv/
 __pycache__/
 .ipynb_checkpoints/
-rag/
 
 data/
 *.pth
 *.pt
 Model_Generatif/images_generees/epoch_*.png
 Tp5/
+README.md
+config.py
+uv.lock
+pyproject.toml
+main.py
+.python-version
+.gitignore
