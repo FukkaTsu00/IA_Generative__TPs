@@ -5,10 +5,3 @@ __pycache__/
 chroma_pdf/
 resultats_pdf/
 .ipynb_checkpoints/
-README.md
-config.py
-uv.lock
-pyproject.toml
-main.py
-.python-version
-.gitignore

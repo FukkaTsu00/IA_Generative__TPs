@@ -6,4 +6,3 @@ data/
 *.pth
 *.pt
 Model_Generatif/images_generees/epoch_*.png
-Tp5/
